@@ -207,7 +207,6 @@ npm start
 ~ Bai Hong He(Jackie):ST10030735
 ~ Cristina Rodrigues:ST10049126
 ~ Uzair:ST10045844
-~ Andrew Maswanganye: ST10090907
 
 ## Acknowledgments
 - MongoDB Atlas for database hosting
